@@ -1,2 +1,2 @@
 # TIA-PORTAL-PROJELER
-Okulda yapmış olduğum TIA PORTAL projelerim
+Okulda yapmısolduğum TIA PORTAL projelerim
